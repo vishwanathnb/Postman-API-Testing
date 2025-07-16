@@ -28,6 +28,9 @@ Future Improvements
 Add Newman for CLI test automation Write test cases using Postman tests (JavaScript snippets) Include environment variables for dynamic URLs.
 
 Author
+
 Vishwanath 
+
 vishwanathbiradar236@gmail.com
+
 Bangalore, India
